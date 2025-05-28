@@ -2,9 +2,10 @@
 
 Implementation of ICML 2025 poster paper "**Synonymous Variational Inference for Perceptual Image Compression**".
 
-The code is currently being organized and is expected to be uploaded, along with result data and visualizations, by the end of June, 2025.
+The code is currently being organized and is expected to be uploaded, along with result data and visualizations, by the end of June 2025.
 
-
+> **An illustration of the optimization directions of synonymous image compression.**
+![Subfigure 1](setDistance_downKL.png)
 
 ## TL;DR:
 
@@ -21,5 +22,4 @@ When we compress images to save space or share them, we hope to reduce the file 
 We noticed that two or more images can be mathematically “synonymous” and belong to a “synonymous set (synset)” if they look alike to people, even if their pixel-level details differ. Building on this idea, we develop an analysis framework called Synonymous Variational Inference (SVI), using ideas of semantic information theory. It not only theoretically explains why the AI-driven compression’s three-way trade-off among compression rates, pixel distortions, and distribution divergence, but also points out future improvements. We put it into practice with a progressive codec, Synonymous Image Compression (SIC), that compresses images across diverse file sizes while keeping them visually faithful.
 
 We state that our work not only supports perceptual image compression in theory, but also contributes to semantic information theory by linking the synonymy perspective to practical image coding problems, helping move toward a unified viewpoint of semantic information.
-
 
