@@ -2,6 +2,8 @@
 
 Implementation of ICML 2025 poster paper "**Synonymous Variational Inference for Perceptual Image Compression**".
 
+Arxiv Link: [https://arxiv.org/abs/2505.22438](https://arxiv.org/abs/2505.22438)
+
 The code is currently being organized and is expected to be uploaded, along with result data and visualizations, by the end of June 2025.
 
 > **An illustration of the optimization directions of synonymous image compression.**
@@ -9,7 +11,7 @@ The code is currently being organized and is expected to be uploaded, along with
 
 ## TL;DR:
 
-This paper attempts to establish an unified theoretical framework for perceptual image compression in a synonymous relationship-based semantic information theory viewpoint.
+This paper attempts to establish a unified theoretical framework for perceptual image compression in a synonymous relationship-based semantic information theory viewpoint.
 
 ## Abstract
 
