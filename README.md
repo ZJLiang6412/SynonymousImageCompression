@@ -10,10 +10,10 @@ The code is currently being organized and is expected to be uploaded, along with
 
 **[Statement]** Here, we first clarify that the main contribution of our paper is **to establish a unified mathematical theory for perceptual image compression, supporting existing RDP theory, and suggesting potential future research directions**. Our current rough implementation serves as a **preliminary validation**, demonstrating that a single model can adapt to multiple rates while approaching the performance of existing RDP methods, which aligns with our intended verification. **Achieving further performance breakthroughs will require future research efforts.**
 
----
-
 > **An illustration of the optimization directions of synonymous image compression.**
 ![Subfigure 1](setDistance_downKL.png)
+
+---
 
 ## TL;DR:
 
