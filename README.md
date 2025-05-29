@@ -6,7 +6,7 @@ Arxiv Link: [https://arxiv.org/abs/2505.22438](https://arxiv.org/abs/2505.22438)
 
 The code is currently being organized and is expected to be uploaded, along with result data and visualizations, by the end of June 2025.
 
-[Statement] Here, we first clarify that the main contribution of our paper is **to establish a unified mathematical theory for perceptual image compression, supporting existing RDP theory, and suggesting potential future research directions**. Our current rough implementation serves as a **preliminary validation**, demonstrating that a single model can adapt to multiple rates while approaching the performance of existing RDP methods, which aligns with our intended verification. **Achieving further performance breakthroughs will require future research efforts.**
+**[Statement]** Here, we first clarify that the main contribution of our paper is **to establish a unified mathematical theory for perceptual image compression, supporting existing RDP theory, and suggesting potential future research directions**. Our current rough implementation serves as a **preliminary validation**, demonstrating that a single model can adapt to multiple rates while approaching the performance of existing RDP methods, which aligns with our intended verification. **Achieving further performance breakthroughs will require future research efforts.**
 
 > **An illustration of the optimization directions of synonymous image compression.**
 ![Subfigure 1](setDistance_downKL.png)
