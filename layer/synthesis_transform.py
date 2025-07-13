@@ -1,4 +1,4 @@
-from POPSIC_finalF.layer.layers import *
+from progSIC.layer.layers import *
 
 
 class BasicLayer(nn.Module):
